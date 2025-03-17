@@ -5,12 +5,25 @@
     <link>https://amusby.github.io/post/</link>
       <atom:link href="https://amusby.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amusby.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://amusby.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://amusby.github.io/post/02/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://amusby.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;как-прошла-учебная-неделя&#34;&gt;Как прошла учебная неделя?&lt;/h1&gt;
+&lt;p&gt;Привет! 🌿 На этой неделе было много математики и ещё больше размышлений. Особенно запомнились занятия по линейной алгебре – оказывается, матрицы могут быть не только громоздкими, но и весьма элегантными в решении задач.&lt;/p&gt;
+&lt;p&gt;Также пришлось много времени уделить дифференциальным уравнениям. Пока они кажутся сложными, но чувствую, что, когда разберусь, смогу увидеть в них настоящую логику.&lt;/p&gt;
+&lt;p&gt;Неделя выдалась непростой, но интересной. Впереди ещё больше новых тем, так что готовлюсь к следующим вызовам! 🚀&lt;/p&gt;
+&lt;p&gt;А как твои успехи? Делись в комментариях!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
